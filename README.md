@@ -1,6 +1,6 @@
 # Soluções para os exercícios propostos em C++
 
-Olá 👋, neste repositório estão as soluções que criei para cada exercício. Na pasta exercicios cada arquivo é referente a uma solução cujo o nome do arquivo está especificando.
+Olá 👋, neste repositório estão as soluções que criei para cada exercício. Cada arquivo é referente a uma solução cujo o nome do arquivo está especificando.
 
 Eu utilizei o app Cxxdroid [link Google Play](https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid) para desenvolver as soluções pois no momento estou sem computador. 
 
