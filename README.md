@@ -6,4 +6,4 @@ Eu utilizei o app Cxxdroid [link Google Play](https://play.google.com/store/apps
 Para acessar online pelo Repl.it você precisará ter uma conta para rodar o código.
 ## Links para as soluções no Repl.it
 * [Exercício 1 - criptografia do navio](https://replit.com/@GabrielBaldez/criptografia-navio).
-* [Exercício 2 - Livro de ofertas](https://replit.com/@GabrielBaldez/CPlusPlus?s=app
+* [Exercício 2 - Livro de ofertas](https://replit.com/@GabrielBaldez/Livro-de-ofertas?s=app).
